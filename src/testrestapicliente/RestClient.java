@@ -177,6 +177,7 @@ public class RestClient {
         System.out.println("(6) - Topologia");
         System.out.println("(7) - Tipos de  Estatísticas");
         System.out.println("(8) - Largura de Banda Consumida");
+        System.out.println("(9) - Rota definida pelo switch de origem para o de destino");
         System.out.println("(0) - Sair");
         System.out.println(" ");
         System.out.print("-> ");
